@@ -4,7 +4,7 @@ Tutorial
 
 Previous Repositories
 ---------------------
-- [CoderSales/django-postgres](https://github.com/CoderSales/django-postgres)
-- [CoderSales/following-django-polling-app-tutorial-2](https://github.com/CoderSales/following-django-polling-app-tutorial-2)
-- [CoderSales/following-django-polling-app-tutorial](https://github.com/CoderSales/following-django-polling-app-tutorial)
-- [practice-django-with-tutorial](https://github.com/CoderSales/practice-django-with-tutorial)
+- postgres [CoderSales/django-postgres](https://github.com/CoderSales/django-postgres)
+- polling 2 [CoderSales/following-django-polling-app-tutorial-2](https://github.com/CoderSales/following-django-polling-app-tutorial-2)
+- polling [CoderSales/following-django-polling-app-tutorial](https://github.com/CoderSales/following-django-polling-app-tutorial)
+- practice [practice-django-with-tutorial](https://github.com/CoderSales/practice-django-with-tutorial)

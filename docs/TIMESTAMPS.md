@@ -9,3 +9,4 @@
 - VSCode [open django project with VSCode](https://youtu.be/unFGJhIvHU4?t=80)
 - project folder [django project folder](https://youtu.be/unFGJhIvHU4?t=87)
 - app folder [django app folder](https://youtu.be/unFGJhIvHU4?t=89)
+- [settings.py INSTALLED_APPS 'app](https://youtu.be/unFGJhIvHU4?t=103)

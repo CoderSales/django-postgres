@@ -19,3 +19,4 @@ Plan
 Shell
 -----
 - [script.sh](https://github.com/CoderSales/django-2/blob/main/script2.sh)
+- [USE-CLI-AND-SCRIPT-SH.md](https://github.com/CoderSales/django-2/blob/main/README.md)

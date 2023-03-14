@@ -11,8 +11,19 @@
     <title>Hello, world!</title>
   </head>
   <body>
-    <h1 class="text-center">Blearning Club</h1>
-
+    <h1 class="text-center">Blearning Club</h1><hr>
+    <div class="container">
+      {% for x in obj %}
+      <div class="row">
+        <div class="com-lg-5 col-md-5 col-12">
+          {{x.name}}
+        </div>
+        <div class="com-lg-5 col-md-5 col-12">
+          {{x.des}}
+        </div>
+      </div>
+      {% endfor %}
+    </div>
     <!-- Optional JavaScript; choose one of the two! -->
 
     <!-- Option 1: jQuery and Bootstrap Bundle (includes Popper) -->

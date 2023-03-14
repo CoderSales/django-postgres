@@ -7,4 +7,5 @@
 - [django-admin startproject .](https://youtu.be/unFGJhIvHU4?t=73)
 - [django-admin startapp app](https://youtu.be/unFGJhIvHU4?t=76)
 - [open django project with VSCode](https://youtu.be/unFGJhIvHU4?t=80)
-- []()
+- [django project folder](https://youtu.be/unFGJhIvHU4?t=87)
+- [django app folder](https://youtu.be/unFGJhIvHU4?t=89)

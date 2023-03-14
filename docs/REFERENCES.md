@@ -24,3 +24,7 @@ Shell
 DEVELOPMENT.md
 --------------
 - [following-django-polling-app-tutorial-2/docs/DEVELOPMENT.md](https://raw.githubusercontent.com/CoderSales/following-django-polling-app-tutorial-2/main/docs/DEVELOPMENT.md?token=GHSAT0AAAAAABZB25MXSGYCI5BLEKGC2WE2ZAPYI5Q)
+
+Bootstrap 4.5
+-------------
+- [Starter template](https://getbootstrap.com/docs/4.5/getting-started/introduction/)

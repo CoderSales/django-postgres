@@ -1,4 +1,4 @@
-python -m venv.venv
+python -m venv .venv
 source .venv/Scripts/activate
 pip install psycopg2
 pip install Django

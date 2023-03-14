@@ -1,0 +1,2 @@
+Fix .venv not activating from cmd.exe Bug [Resolved]
+- cmd.exe activate .venv [.venv\Scripts\activate](https://stackoverflow.com/questions/46896093/how-to-activate-virtual-environment-from-windows-10-command-prompt)

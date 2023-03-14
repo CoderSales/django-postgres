@@ -12,6 +12,7 @@ docs
 - [NON-STANDARD-CLI-CMDS.md](docs/NON-STANDARD-CLI-CMDS.md)
 - [ABBREVIATED-POST-RUN.md](docs/ABBREVIATED-POST-RUN.md)
 - [SPARSE-NOTES.md](docs/SPARSE-NOTES.md)
+- [BUGS.md](docs/BUGS.md)
 
 - Check if need to run
 pip install psycopg2

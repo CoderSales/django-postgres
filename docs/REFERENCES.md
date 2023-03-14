@@ -11,4 +11,4 @@ Previous Repositories
 - Django [following-a-Django-tutorial](https://github.com/CoderSales/following-a-Django-tutorial)
 - [sqlite3](https://github.com/CoderSales/sqlite3)
 - [django-2](https://github.com/CoderSales/django-2)
-![plan](images/plan.img)
+![plan](images/plan.png)

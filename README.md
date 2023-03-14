@@ -1,5 +1,13 @@
 # django-postgres
 
+Summary post tutorial completion:
+--------
+
+1. [PostgreSQL with Django // how to // tutorial | ![B Learning Club]](https://youtu.be/unFGJhIvHU4)
+2. ABBREVIATED-POST-RUN.md
+3. [Setup Database Schema](https://youtu.be/unFGJhIvHU4?t=640)
+
+
 docs
 ----
 - [REFERENCES.md](docs/REFERENCES.md)

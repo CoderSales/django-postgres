@@ -5,3 +5,4 @@ pip install Django
 django-admin startproject project .
 django-admin startapp app
 project/settings.py INSTALLED_APPS 'app'
+app/views.py

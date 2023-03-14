@@ -20,3 +20,7 @@ Shell
 -----
 - [script.sh](https://github.com/CoderSales/django-2/blob/main/script2.sh)
 - [USE-CLI-AND-SCRIPT-SH.md](https://github.com/CoderSales/django-2/blob/main/README.md)
+
+DEVELOPMENT.md
+--------------
+- [following-django-polling-app-tutorial-2/docs/DEVELOPMENT.md](https://raw.githubusercontent.com/CoderSales/following-django-polling-app-tutorial-2/main/docs/DEVELOPMENT.md?token=GHSAT0AAAAAABZB25MXSGYCI5BLEKGC2WE2ZAPYI5Q)

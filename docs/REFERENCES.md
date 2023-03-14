@@ -15,3 +15,7 @@ Previous Repositories
 Plan
 ----
 ![plan](../images/plan.png)
+
+Shell
+-----
+- [script.sh](https://github.com/CoderSales/django-2/blob/main/script2.sh)
